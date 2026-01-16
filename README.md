@@ -10,8 +10,8 @@
 | Disclosure Date | January 16, 2026 |
 | Author | Erik Dervishi |
 | Software Link | https://salsa.debian.org/pkg-security-team/steghide |
-| CVSS v3.1 Score | **7.1 (High)** |
-| CVSS Vector | CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:H |
+| CVSS v3.1 Score | **5.5 (Medium)** |
+| CVSS Vector | CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:H |
 
 **Severity Rationale:**  
 The High severity score reflects reliable local exploitation leading to both
