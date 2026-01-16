@@ -14,7 +14,7 @@
 | CVSS Vector | CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:N/A:H |
 
 **Severity Rationale:**  
-The High severity score reflects reliable local exploitation leading to both
+The Medium severity score reflects reliable local exploitation leading to both
 denial of service and disclosure of sensitive credentials via core dumps.
 
 ## 1. Description
